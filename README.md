@@ -13,8 +13,10 @@ npm i
 npm run build
 
 npm start
+
 ```
 python manage.py runserver
+```
 
 ```
 Username: admin
