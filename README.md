@@ -20,5 +20,5 @@ python manage.py runserver
 
 ```
 Username: admin
-
 Password: @@1234##@321
+```
