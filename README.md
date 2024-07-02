@@ -16,7 +16,6 @@ npm start
 
 ```
 python manage.py runserver
-```
 
 ```
 Username: admin
